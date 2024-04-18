@@ -26,9 +26,6 @@ dependencies:
   '@nebula-services/dynamic':
     specifier: 0.7.2-patch.2
     version: 0.7.2-patch.2
-  '@titaniumnetwork-dev/ultraviolet':
-    specifier: ^3.0.0
-    version: 3.0.0
   '@tomphttp/bare-server-node':
     specifier: 2.0.3
     version: 2.0.3
